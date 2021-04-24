@@ -19,3 +19,9 @@
     3- Click Apply and OK button OR click simply OK button
 
 (https://stackoverflow.com/questions/9180981/how-to-support-utf-8-encoding-in-eclips)
+
+
+
+## git integration
+
+(https://www.youtube.com/watch?v=MdioIaiK9-Y)
